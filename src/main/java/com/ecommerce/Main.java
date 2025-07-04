@@ -1,4 +1,6 @@
-package main.java.com.ecommerce;/*
+package main.java.com.ecommerce;
+
+/*
 Design an e-commerce system that has these features:
 ● Define products with name, price and quantity.
 ● Some products may expire like Cheese and Biscuits while others may not expire like TV and Mobile.
